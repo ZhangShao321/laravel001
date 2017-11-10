@@ -1,0 +1,451 @@
+[2017-11-03 20:34:00]select count(*) as aggregate from `money`
+[2017-11-03 20:34:00]select max(`money`) as aggregate from `money`
+[2017-11-03 20:34:00]select avg(`money`) as aggregate from `money`
+[2017-11-03 20:34:00]select count(*) as aggregate from `money`
+[2017-11-03 20:34:00]select max(`money`) as aggregate from `money`
+[2017-11-03 20:34:00]select avg(`money`) as aggregate from `money`
+[2017-11-03 20:34:00]select count(*) as aggregate from `money`
+[2017-11-03 20:34:00]select max(`money`) as aggregate from `money`
+[2017-11-03 20:34:00]select avg(`money`) as aggregate from `money`
+[2017-11-03 20:34:01]select count(*) as aggregate from `money`
+[2017-11-03 20:34:01]select max(`money`) as aggregate from `money`
+[2017-11-03 20:34:01]select avg(`money`) as aggregate from `money`
+[2017-11-03 20:43:32]select count(*) as aggregate from `money`
+[2017-11-03 20:43:32]select max(`money`) as aggregate from `money`
+[2017-11-03 20:43:32]select avg(`money`) as aggregate from `money`
+[2017-11-03 21:13:34]select count(*) as aggregate from `money`
+[2017-11-03 21:13:34]select max(`money`) as aggregate from `money`
+[2017-11-03 21:13:34]select avg(`money`) as aggregate from `money`
+[2017-11-03 22:09:38]select * from `stu`
+[2017-11-03 22:09:59]select * from `stu`
+[2017-11-03 22:13:50]select * from `stu`
+[2017-11-03 22:14:32]select * from `stu`
+[2017-11-03 22:17:33]select * from `stu`
+[2017-11-03 22:18:20]insert into `stu` (`name`, `sex`, `age`, `phone`, `address`, `email`, `wechat`, `ip`, `pic`) values (?, ?, ?, ?, ?, ?, ?, ?, ?)
+[2017-11-03 22:19:49]select * from `stu`
+[2017-11-03 22:20:43]select * from `stu`
+[2017-11-03 22:20:48]select * from `stu`
+[2017-11-03 22:21:28]select * from `stu`
+[2017-11-03 22:23:28]select * from `stu`
+[2017-11-03 22:24:27]select * from `stu`
+[2017-11-03 22:25:17]select * from `stu`
+[2017-11-03 22:26:01]select * from `stu`
+[2017-11-03 22:26:23]select * from `stu`
+[2017-11-03 22:26:53]select * from `stu`
+[2017-11-03 22:27:33]select * from `stu`
+[2017-11-03 22:32:49]select * from `stu`
+[2017-11-03 22:32:52]select * from `stu` where `id` = ? limit 1
+[2017-11-03 22:35:25]select * from `stu` where `id` = ? limit 1
+[2017-11-03 22:36:03]select * from `stu` where `id` = ? limit 1
+[2017-11-03 22:37:51]select * from `stu` where `id` = ? limit 1
+[2017-11-03 22:38:18]select * from `stu` where `id` = ? limit 1
+[2017-11-03 22:38:22]select * from `stu` where `id` = ? limit 1
+[2017-11-03 22:38:33]select * from `stu`
+[2017-11-03 22:38:36]select * from `stu` where `id` = ? limit 1
+[2017-11-03 22:39:04]select * from `stu` where `id` = ? limit 1
+[2017-11-03 22:39:39]select * from `stu` where `id` = ? limit 1
+[2017-11-03 22:41:48]select * from `stu` where `id` = ? limit 1
+[2017-11-03 22:44:36]select * from `stu` where `id` = ? limit 1
+[2017-11-03 22:44:37]select * from `stu` where `id` = ? limit 1
+[2017-11-03 22:44:55]select * from `stu` where `id` = ? limit 1
+[2017-11-03 22:48:35]select * from `stu`
+[2017-11-03 22:48:59]select * from `stu`
+[2017-11-03 22:49:01]delete from `stu` where `id` = ?
+[2017-11-03 22:49:44]select * from `stu`
+[2017-11-03 22:50:30]select * from `stu`
+[2017-11-03 22:50:35]delete from `stu` where `id` = ?
+[2017-11-03 22:52:28]delete from `stu` where `id` = ?
+[2017-11-03 22:52:30]select * from `stu`
+[2017-11-03 22:52:56]insert into `stu` (`name`, `sex`, `age`, `phone`, `address`, `email`, `wechat`, `ip`, `pic`) values (?, ?, ?, ?, ?, ?, ?, ?, ?)
+[2017-11-03 22:57:22]insert into `stu` (`name`, `sex`, `age`, `phone`, `address`, `email`, `wechat`, `ip`, `pic`) values (?, ?, ?, ?, ?, ?, ?, ?, ?)
+[2017-11-03 22:58:04]insert into `stu` (`name`, `sex`, `age`, `phone`, `address`, `email`, `wechat`, `ip`, `pic`) values (?, ?, ?, ?, ?, ?, ?, ?, ?)
+[2017-11-03 22:59:15]insert into `stu` (`name`, `sex`, `age`, `phone`, `address`, `email`, `wechat`, `ip`, `pic`) values (?, ?, ?, ?, ?, ?, ?, ?, ?)
+[2017-11-03 22:59:43]select * from `stu`
+[2017-11-03 23:01:30]select * from `stu`
+[2017-11-03 23:02:00]insert into `stu` (`name`, `sex`, `age`, `phone`, `address`, `email`, `wechat`, `ip`, `pic`) values (?, ?, ?, ?, ?, ?, ?, ?, ?)
+[2017-11-03 23:02:00]select * from `stu`
+[2017-11-03 23:02:54]select * from `stu`
+[2017-11-03 23:02:57]delete from `stu` where `id` = ?
+[2017-11-03 23:02:57]select * from `stu`
+[2017-11-03 23:03:00]delete from `stu` where `id` = ?
+[2017-11-03 23:03:01]select * from `stu`
+[2017-11-06 08:03:05]select * from `stu`
+[2017-11-06 08:03:32]insert into `stu` (`name`, `sex`, `age`, `phone`, `address`, `email`, `wechat`, `ip`, `pic`) values (?, ?, ?, ?, ?, ?, ?, ?, ?)
+[2017-11-06 08:03:32]select * from `stu`
+[2017-11-06 08:03:40]select * from `stu` where `id` = ? limit 1
+[2017-11-06 08:03:59]select * from `stu`
+[2017-11-06 08:04:04]delete from `stu` where `id` = ?
+[2017-11-06 08:04:05]select * from `stu`
+[2017-11-06 08:05:06]select * from `stu`
+[2017-11-06 08:05:10]select * from `stu` where `id` = ? limit 1
+[2017-11-06 08:06:20]select * from `stu` where `id` = ? limit 1
+[2017-11-06 08:07:04]select * from `stu` where `id` = ? limit 1
+[2017-11-06 08:10:35]select * from `stu` where `id` = ? limit 1
+[2017-11-06 08:10:43]update `stu` set `name` = ?, `sex` = ?, `age` = ?, `phone` = ?, `address` = ?, `email` = ?, `wechat` = ?, `ip` = ? where `id` = ?
+[2017-11-06 08:10:43]select * from `stu`
+[2017-11-06 08:10:49]select * from `stu` where `id` = ? limit 1
+[2017-11-06 08:10:59]update `stu` set `name` = ?, `age` = ?, `phone` = ?, `address` = ?, `email` = ?, `wechat` = ?, `ip` = ?, `pic` = ? where `id` = ?
+[2017-11-06 08:10:59]select * from `stu`
+[2017-11-06 08:16:01]select * from stu1 order by id
+[2017-11-06 08:16:21]insert into `stu1` (`name`, `sex`, `age`, `phone`, `address`, `email`, `wechat`, `ip`) values (?, ?, ?, ?, ?, ?, ?, ?)
+[2017-11-06 08:16:21]select * from stu1 order by id
+[2017-11-06 08:16:28]select * from stu1 where id = 26
+[2017-11-06 08:16:37]update `stu1` set `name` = ?, `sex` = ?, `age` = ?, `phone` = ?, `address` = ?, `email` = ?, `wechat` = ? where `id` = ?
+[2017-11-06 08:16:38]select * from stu1 order by id
+[2017-11-06 08:16:40]delete from stu1 where id = 26
+[2017-11-06 08:16:40]select * from stu1 order by id
+[2017-11-06 08:26:04]select * from `stu`
+[2017-11-06 08:26:43]select * from `stu`
+[2017-11-06 08:26:58]select * from `stu`
+[2017-11-06 15:30:55]insert into `user` (`username`, `password`, `email`, `phone`, `status`, `pic`) values (?, ?, ?, ?, ?, ?)
+[2017-11-06 15:32:14]insert into `user` (`username`, `password`, `email`, `phone`, `status`, `pic`) values (?, ?, ?, ?, ?, ?)
+[2017-11-06 15:33:17]insert into `user` (`username`, `password`, `email`, `phone`, `status`, `pic`) values (?, ?, ?, ?, ?, ?)
+[2017-11-06 15:40:15]select * from `user`
+[2017-11-06 15:40:46]select * from `user`
+[2017-11-06 15:41:16]select * from `user`
+[2017-11-06 15:55:12]select * from `user`
+[2017-11-06 15:58:56]select * from `user`
+[2017-11-06 16:02:16]select * from `user`
+[2017-11-06 16:03:44]select * from `user`
+[2017-11-06 16:34:26]select * from `user`
+[2017-11-06 16:36:20]select * from `user`
+[2017-11-06 16:36:23]select * from `user`
+[2017-11-06 16:36:28]select * from `user`
+[2017-11-06 16:36:49]select * from `user`
+[2017-11-06 16:36:53]select * from `user`
+[2017-11-06 16:38:37]select * from `user`
+[2017-11-06 16:39:42]select * from `user`
+[2017-11-06 16:41:47]select * from `user`
+[2017-11-06 16:43:00]select * from `user`
+[2017-11-06 16:45:00]select * from `user`
+[2017-11-06 16:45:26]select * from `user`
+[2017-11-06 16:46:32]select * from `user`
+[2017-11-06 16:47:51]select * from `user`
+[2017-11-06 16:50:17]select * from `user`
+[2017-11-06 16:51:36]select * from `user`
+[2017-11-06 16:52:42]select * from `user`
+[2017-11-06 16:53:07]select * from `user`
+[2017-11-06 16:56:05]select * from `user`
+[2017-11-06 16:57:10]select * from `user`
+[2017-11-06 18:52:21]select * from `user`
+[2017-11-06 18:52:47]select * from `user`
+[2017-11-06 18:55:14]select * from `user`
+[2017-11-06 19:07:44]select * from `user`
+[2017-11-06 19:13:59]select count(*) as aggregate from `user`
+[2017-11-06 19:13:59]select * from `user` limit 15 offset 0
+[2017-11-06 19:15:39]select count(*) as aggregate from `user`
+[2017-11-06 19:15:39]select * from `user` limit 15 offset 0
+[2017-11-06 19:15:41]select count(*) as aggregate from `user`
+[2017-11-06 19:15:41]select * from `user` limit 15 offset 0
+[2017-11-06 19:16:22]select count(*) as aggregate from `user`
+[2017-11-06 19:16:22]select * from `user` limit 15 offset 0
+[2017-11-06 19:23:13]select count(*) as aggregate from `user`
+[2017-11-06 19:23:13]select * from `user` limit 15 offset 0
+[2017-11-06 19:23:19]select count(*) as aggregate from `user`
+[2017-11-06 19:23:19]select * from `user` limit 15 offset 15
+[2017-11-06 19:24:12]select count(*) as aggregate from `user`
+[2017-11-06 19:24:12]select * from `user` limit 15 offset 15
+[2017-11-06 19:25:14]select count(*) as aggregate from `user`
+[2017-11-06 19:25:14]select * from `user` limit 15 offset 15
+[2017-11-06 20:16:45]select count(*) as aggregate from `user`
+[2017-11-06 20:16:45]select * from `user` limit 15 offset 15
+[2017-11-06 20:17:03]select count(*) as aggregate from `user`
+[2017-11-06 20:17:03]select * from `user` limit 15 offset 15
+[2017-11-06 20:20:29]select count(*) as aggregate from `user`
+[2017-11-06 20:20:29]select * from `user` limit 15 offset 15
+[2017-11-06 20:20:50]select count(*) as aggregate from `user`
+[2017-11-06 20:20:50]select * from `user` limit 15 offset 15
+[2017-11-06 20:21:13]select count(*) as aggregate from `user`
+[2017-11-06 20:21:13]select * from `user` limit 15 offset 30
+[2017-11-06 20:21:35]select count(*) as aggregate from `user`
+[2017-11-06 20:21:35]select * from `user` limit 15 offset 30
+[2017-11-06 20:21:47]select count(*) as aggregate from `user`
+[2017-11-06 20:21:47]select * from `user` limit 15 offset 0
+[2017-11-06 20:22:08]select count(*) as aggregate from `user`
+[2017-11-06 20:22:08]select * from `user` limit 10 offset 0
+[2017-11-06 20:24:33]select count(*) as aggregate from `user`
+[2017-11-06 20:24:33]select * from `user` limit 10 offset 0
+[2017-11-06 20:25:52]select count(*) as aggregate from `user`
+[2017-11-06 20:25:52]select * from `user` limit 10 offset 0
+[2017-11-06 20:27:16]select count(*) as aggregate from `user`
+[2017-11-06 20:27:16]select * from `user` limit 10 offset 0
+[2017-11-06 20:31:28]select count(*) as aggregate from `user`
+[2017-11-06 20:31:28]select * from `user` limit 10 offset 0
+[2017-11-06 20:31:35]select count(*) as aggregate from `user`
+[2017-11-06 20:31:35]select * from `user` limit 10 offset 0
+[2017-11-06 20:32:28]select count(*) as aggregate from `user`
+[2017-11-06 20:32:28]select * from `user` limit 10 offset 0
+[2017-11-06 20:34:43]select count(*) as aggregate from `user`
+[2017-11-06 20:34:43]select * from `user` limit 10 offset 0
+[2017-11-06 20:35:29]select count(*) as aggregate from `user`
+[2017-11-06 20:35:29]select * from `user` limit 10 offset 0
+[2017-11-06 20:35:41]select count(*) as aggregate from `user`
+[2017-11-06 20:35:42]select * from `user` limit 10 offset 0
+[2017-11-06 20:36:11]select count(*) as aggregate from `user`
+[2017-11-06 20:36:11]select * from `user` limit 10 offset 0
+[2017-11-06 20:41:59]select count(*) as aggregate from `user`
+[2017-11-06 20:41:59]select * from `user` limit 10 offset 0
+[2017-11-06 20:42:45]select count(*) as aggregate from `user`
+[2017-11-06 20:42:45]select * from `user` limit 10 offset 0
+[2017-11-07 08:27:14]select count(*) as aggregate from `user`
+[2017-11-07 08:27:14]select * from `user` limit 10 offset 0
+[2017-11-07 09:38:23]select count(*) as aggregate from `user`
+[2017-11-07 09:38:23]select * from `user` limit 10 offset 100
+[2017-11-07 09:38:33]select count(*) as aggregate from `user`
+[2017-11-07 09:38:33]select * from `user` limit 10 offset 90
+[2017-11-07 09:39:14]select count(*) as aggregate from `user`
+[2017-11-07 09:39:14]select * from `user` limit 10 offset 80
+[2017-11-07 09:41:28]select count(*) as aggregate from `user`
+[2017-11-07 09:41:28]select * from `user` limit 10 offset 20
+[2017-11-07 09:44:02]select count(*) as aggregate from `user`
+[2017-11-07 09:44:02]select * from `user` limit 10 offset 20
+[2017-11-07 09:46:03]select count(*) as aggregate from `user`
+[2017-11-07 09:46:03]select * from `user` limit 10 offset 20
+[2017-11-07 10:48:36]select count(*) as aggregate from `user`
+[2017-11-07 10:48:36]select * from `user` limit 10 offset 20
+[2017-11-07 10:50:27]select count(*) as aggregate from `user`
+[2017-11-07 10:50:27]select * from `user` limit 10 offset 20
+[2017-11-07 10:50:32]select count(*) as aggregate from `user`
+[2017-11-07 10:50:32]select * from `user` limit 10 offset 20
+[2017-11-07 10:51:03]select count(*) as aggregate from `user`
+[2017-11-07 10:51:03]select * from `user` limit 10 offset 20
+[2017-11-07 10:52:05]select count(*) as aggregate from `user`
+[2017-11-07 10:52:05]select * from `user` limit 10 offset 20
+[2017-11-07 10:54:36]select count(*) as aggregate from `user`
+[2017-11-07 10:54:36]select * from `user` limit 10 offset 20
+[2017-11-07 13:46:48]select count(*) as aggregate from `user`
+[2017-11-07 13:46:48]select * from `user` limit 10 offset 0
+[2017-11-07 13:47:16]select count(*) as aggregate from `user`
+[2017-11-07 13:47:16]select * from `user` limit 10 offset 0
+[2017-11-07 13:53:30]select count(*) as aggregate from `user`
+[2017-11-07 13:53:30]select * from `user` limit 10 offset 0
+[2017-11-07 13:54:47]select count(*) as aggregate from `user`
+[2017-11-07 13:54:47]select * from `user` limit 10 offset 0
+[2017-11-07 13:55:02]select count(*) as aggregate from `user`
+[2017-11-07 13:55:02]select * from `user` limit 10 offset 0
+[2017-11-07 13:55:14]select count(*) as aggregate from `user`
+[2017-11-07 13:55:14]select * from `user` limit 10 offset 40
+[2017-11-07 13:55:58]select count(*) as aggregate from `user`
+[2017-11-07 13:55:58]select * from `user` limit 10 offset 40
+[2017-11-07 13:56:03]select count(*) as aggregate from `user`
+[2017-11-07 13:56:03]select * from `user` limit 10 offset 40
+[2017-11-07 13:57:13]select count(*) as aggregate from `user`
+[2017-11-07 13:57:13]select * from `user` limit 10 offset 40
+[2017-11-07 13:57:35]select count(*) as aggregate from `user`
+[2017-11-07 13:57:35]select * from `user` limit 10 offset 40
+[2017-11-07 14:03:41]select count(*) as aggregate from `user` where `username` like ?
+[2017-11-07 14:03:41]select * from `user` where `username` like ? order by `id` asc limit 10 offset 0
+[2017-11-07 14:06:25]select count(*) as aggregate from `user` where `username` like ?
+[2017-11-07 14:06:25]select * from `user` where `username` like ? order by `id` asc limit 10 offset 0
+[2017-11-07 14:06:30]select count(*) as aggregate from `user` where `username` like ?
+[2017-11-07 14:06:31]select * from `user` where `username` like ? order by `id` asc limit 25 offset 0
+[2017-11-07 14:06:45]select count(*) as aggregate from `user` where `username` like ?
+[2017-11-07 14:06:45]select * from `user` where `username` like ? order by `id` asc limit 10 offset 0
+[2017-11-07 14:09:46]select count(*) as aggregate from `user` where `username` like ?
+[2017-11-07 14:09:46]select * from `user` where `username` like ? order by `id` asc limit 25 offset 0
+[2017-11-07 14:10:09]select count(*) as aggregate from `user` where `username` like ?
+[2017-11-07 14:10:09]select * from `user` where `username` like ? order by `id` asc limit 25 offset 0
+[2017-11-07 14:10:14]select count(*) as aggregate from `user` where `username` like ?
+[2017-11-07 14:10:14]select * from `user` where `username` like ? order by `id` asc limit 10 offset 0
+[2017-11-07 14:10:18]select count(*) as aggregate from `user` where `username` like ?
+[2017-11-07 14:10:18]select * from `user` where `username` like ? order by `id` asc limit 10 offset 10
+[2017-11-07 14:10:22]select count(*) as aggregate from `user` where `username` like ?
+[2017-11-07 14:10:22]select * from `user` where `username` like ? order by `id` asc limit 10 offset 0
+[2017-11-07 14:10:25]select count(*) as aggregate from `user` where `username` like ?
+[2017-11-07 14:10:25]select * from `user` where `username` like ? order by `id` asc limit 10 offset 10
+[2017-11-07 14:10:37]select count(*) as aggregate from `user` where `username` like ?
+[2017-11-07 14:10:37]select * from `user` where `username` like ? order by `id` asc limit 10 offset 0
+[2017-11-07 14:13:01]select count(*) as aggregate from `user` where `username` like ?
+[2017-11-07 14:13:01]select * from `user` where `username` like ? order by `id` asc limit 10 offset 0
+[2017-11-07 14:18:07]select count(*) as aggregate from `user` where `username` like ?
+[2017-11-07 14:18:07]select * from `user` where `username` like ? order by `id` asc limit 10 offset 0
+[2017-11-07 14:18:10]select * from `user` where `id` = ? limit 1
+[2017-11-07 14:22:29]update `user` set `username` = ?, `email` = ?, `phone` = ?, `status` = ? where `id` = ?
+[2017-11-07 14:22:29]select * from `user` where `id` = ? limit 1
+[2017-11-07 14:24:31]update `user` set `username` = ?, `email` = ?, `phone` = ?, `status` = ? where `id` = ?
+[2017-11-07 14:24:58]update `user` set `username` = ?, `email` = ?, `phone` = ?, `status` = ? where `id` = ?
+[2017-11-07 14:24:59]select * from `user` where `id` = ? limit 1
+[2017-11-07 14:25:10]update `user` set `username` = ?, `email` = ?, `phone` = ?, `status` = ? where `id` = ?
+[2017-11-07 14:27:02]select count(*) as aggregate from `user` where `username` like ?
+[2017-11-07 14:27:51]select count(*) as aggregate from `user` where `username` like ?
+[2017-11-07 14:27:51]select * from `user` where `username` like ? order by `id` asc limit 10 offset 0
+[2017-11-07 14:28:11]select count(*) as aggregate from `user` where `username` like ?
+[2017-11-07 14:28:11]select * from `user` where `username` like ? order by `id` asc limit 10 offset 0
+[2017-11-07 14:28:13]select count(*) as aggregate from `user` where `username` like ?
+[2017-11-07 14:28:13]select * from `user` where `username` like ? order by `id` asc limit 10 offset 0
+[2017-11-07 14:28:34]select count(*) as aggregate from `user` where `username` like ?
+[2017-11-07 14:28:34]select * from `user` where `username` like ? order by `id` asc limit 10 offset 0
+[2017-11-07 14:29:19]select count(*) as aggregate from `user` where `username` like ?
+[2017-11-07 14:29:19]select * from `user` where `username` like ? order by `id` asc limit 10 offset 0
+[2017-11-07 14:31:27]select count(*) as aggregate from `user` where `username` like ?
+[2017-11-07 14:31:27]select * from `user` where `username` like ? order by `id` asc limit 10 offset 0
+[2017-11-07 14:31:30]select * from `user` where `id` = ? limit 1
+[2017-11-07 14:31:36]update `user` set `username` = ?, `email` = ?, `phone` = ?, `status` = ? where `id` = ?
+[2017-11-07 14:31:36]select count(*) as aggregate from `user` where `username` like ?
+[2017-11-07 14:31:36]select * from `user` where `username` like ? order by `id` asc limit 10 offset 0
+[2017-11-07 14:32:04]select * from `user` where `id` = ? limit 1
+[2017-11-07 14:32:08]update `user` set `username` = ?, `email` = ?, `phone` = ?, `status` = ? where `id` = ?
+[2017-11-07 14:33:37]select count(*) as aggregate from `user` where `username` like ?
+[2017-11-07 14:33:37]select * from `user` where `username` like ? order by `id` asc limit 10 offset 0
+[2017-11-07 14:34:45]select count(*) as aggregate from `user` where `username` like ?
+[2017-11-07 14:34:45]select * from `user` where `username` like ? order by `id` asc limit 10 offset 0
+[2017-11-07 14:36:19]select count(*) as aggregate from `user` where `username` like ?
+[2017-11-07 14:36:19]select * from `user` where `username` like ? order by `id` asc limit 10 offset 0
+[2017-11-07 14:36:50]select count(*) as aggregate from `user` where `username` like ?
+[2017-11-07 14:36:50]select * from `user` where `username` like ? order by `id` asc limit 10 offset 0
+[2017-11-07 14:37:01]select count(*) as aggregate from `user` where `username` like ?
+[2017-11-07 14:37:01]select * from `user` where `username` like ? order by `id` asc limit 10 offset 0
+[2017-11-07 14:38:01]update `user` set `username` = ?, `email` = ?, `phone` = ?, `status` = ? where `id` = ?
+[2017-11-07 14:38:02]select count(*) as aggregate from `user` where `username` like ?
+[2017-11-07 14:38:02]select * from `user` where `username` like ? order by `id` asc limit 10 offset 0
+[2017-11-07 14:38:04]select count(*) as aggregate from `user` where `username` like ?
+[2017-11-07 14:38:04]select * from `user` where `username` like ? order by `id` asc limit 10 offset 0
+[2017-11-07 14:41:22]select count(*) as aggregate from `user` where `username` like ?
+[2017-11-07 14:41:22]select * from `user` where `username` like ? order by `id` asc limit 10 offset 0
+[2017-11-07 14:41:50]select * from `user` where `id` = ? limit 1
+[2017-11-07 14:41:50]delete from `user` where `id` = ?
+[2017-11-07 14:41:50]select count(*) as aggregate from `user` where `username` like ?
+[2017-11-07 14:41:50]select * from `user` where `username` like ? order by `id` asc limit 10 offset 0
+[2017-11-07 15:19:42]select * from `user` where `id` = ? limit 1
+[2017-11-07 15:19:48]update `user` set `username` = ?, `email` = ?, `phone` = ?, `status` = ? where `id` = ?
+[2017-11-07 15:19:49]select count(*) as aggregate from `user` where `username` like ?
+[2017-11-07 15:19:49]select * from `user` where `username` like ? order by `id` asc limit 10 offset 0
+[2017-11-07 15:25:04]insert into `user` (`username`, `password`, `email`, `phone`, `status`, `pic`) values (?, ?, ?, ?, ?, ?)
+[2017-11-07 15:26:36]select count(*) as aggregate from `user` where `username` like ?
+[2017-11-07 15:26:36]select * from `user` where `username` like ? order by `id` asc limit 10 offset 0
+[2017-11-07 15:26:40]select count(*) as aggregate from `user` where `username` like ?
+[2017-11-07 15:26:40]select * from `user` where `username` like ? order by `id` asc limit 10 offset 100
+[2017-11-07 15:26:50]select * from `user` where `id` = ? limit 1
+[2017-11-07 15:26:50]delete from `user` where `id` = ?
+[2017-11-07 15:26:50]select count(*) as aggregate from `user` where `username` like ?
+[2017-11-07 15:26:50]select * from `user` where `username` like ? order by `id` asc limit 10 offset 0
+[2017-11-07 15:42:02]select count(*) as aggregate from `user` where `username` like ?
+[2017-11-07 15:42:02]select * from `user` where `username` like ? order by `id` asc limit 10 offset 0
+[2017-11-07 19:23:28]select * from `user` where `username` = ? limit 1
+[2017-11-07 19:31:43]select * from `user` where `username` = ? limit 1
+[2017-11-07 19:32:57]select * from `user` where `username` = ? limit 1
+[2017-11-07 19:33:19]select * from `user` where `username` = ? limit 1
+[2017-11-07 19:33:43]select * from `user` where `username` = ? limit 1
+[2017-11-07 19:37:44]select * from `user` where `username` = ? limit 1
+[2017-11-07 19:37:57]select * from `user` where `username` = ? limit 1
+[2017-11-07 19:39:57]select * from `user` where `username` = ? limit 1
+[2017-11-07 19:40:07]select * from `user` where `username` = ? limit 1
+[2017-11-07 19:42:43]select * from `user` where `username` = ? limit 1
+[2017-11-07 19:42:53]select * from `user` where `username` = ? limit 1
+[2017-11-07 19:43:16]select * from `user` where `username` = ? limit 1
+[2017-11-07 19:43:28]select * from `user` where `username` = ? limit 1
+[2017-11-07 19:43:38]select count(*) as aggregate from `user` where `username` like ?
+[2017-11-07 19:43:38]select * from `user` where `username` like ? order by `id` asc limit 10 offset 0
+[2017-11-07 20:16:19]select * from `user` where `username` = ? limit 1
+[2017-11-07 20:16:54]select * from `user` where `username` = ? limit 1
+[2017-11-07 20:17:01]select count(*) as aggregate from `user` where `username` like ?
+[2017-11-07 20:17:01]select * from `user` where `username` like ? order by `id` asc limit 10 offset 0
+[2017-11-07 20:17:10]select count(*) as aggregate from `user` where `username` like ?
+[2017-11-07 20:17:10]select * from `user` where `username` like ? order by `id` asc limit 10 offset 0
+[2017-11-07 20:21:14]select count(*) as aggregate from `user` where `username` like ?
+[2017-11-07 20:21:14]select * from `user` where `username` like ? order by `id` asc limit 10 offset 0
+[2017-11-07 20:21:48]select count(*) as aggregate from `user` where `username` like ?
+[2017-11-07 20:21:48]select * from `user` where `username` like ? order by `id` asc limit 10 offset 0
+[2017-11-07 20:21:48]select * from `user` where `id` = ? limit 1
+[2017-11-07 20:22:29]select count(*) as aggregate from `user` where `username` like ?
+[2017-11-07 20:22:29]select * from `user` where `username` like ? order by `id` asc limit 10 offset 0
+[2017-11-07 20:22:29]select * from `user` where `id` = ? limit 1
+[2017-11-07 20:22:51]select count(*) as aggregate from `user` where `username` like ?
+[2017-11-07 20:22:51]select * from `user` where `username` like ? order by `id` asc limit 10 offset 0
+[2017-11-07 20:22:51]select * from `user` where `id` = ? limit 1
+[2017-11-07 20:23:36]select count(*) as aggregate from `user` where `username` like ?
+[2017-11-07 20:23:36]select * from `user` where `username` like ? order by `id` asc limit 10 offset 0
+[2017-11-07 20:23:36]select * from `user` where `id` = ? limit 1
+[2017-11-07 20:40:25]select count(*) as aggregate from `user` where `username` like ?
+[2017-11-07 20:40:25]select * from `user` where `username` like ? order by `id` asc limit 10 offset 0
+[2017-11-07 20:40:25]select * from `user` where `id` = ? limit 1
+[2017-11-07 20:40:28]select * from `user` where `id` = ? limit 1
+[2017-11-07 20:40:28]select * from `user` where `id` = ? limit 1
+[2017-11-07 20:42:33]select count(*) as aggregate from `user` where `username` like ?
+[2017-11-07 20:42:33]select * from `user` where `username` like ? order by `id` asc limit 10 offset 0
+[2017-11-07 20:42:33]select * from `user` where `id` = ? limit 1
+[2017-11-07 20:43:55]select * from `user` where `id` = ? limit 1
+[2017-11-07 20:43:55]select * from `user` where `id` = ? limit 1
+[2017-11-07 20:45:11]select * from `user` where `id` = ? limit 1
+[2017-11-07 20:45:11]select * from `user` where `id` = ? limit 1
+[2017-11-07 20:59:42]select * from `user` where `id` = ? limit 1
+[2017-11-07 20:59:42]update `user` set `pic` = ? where `id` = ?
+[2017-11-07 21:00:24]select * from `user` where `id` = ? limit 1
+[2017-11-07 21:00:24]select * from `user` where `id` = ? limit 1
+[2017-11-07 21:00:31]select count(*) as aggregate from `user` where `username` like ?
+[2017-11-07 21:00:31]select * from `user` where `username` like ? order by `id` asc limit 10 offset 0
+[2017-11-07 21:00:31]select * from `user` where `id` = ? limit 1
+[2017-11-07 21:00:37]select count(*) as aggregate from `user` where `username` like ?
+[2017-11-07 21:00:37]select * from `user` where `username` like ? order by `id` asc limit 10 offset 0
+[2017-11-07 21:00:37]select * from `user` where `id` = ? limit 1
+[2017-11-07 21:00:47]select * from `user` where `id` = ? limit 1
+[2017-11-07 21:00:47]select * from `user` where `id` = ? limit 1
+[2017-11-07 21:00:54]select * from `user` where `id` = ? limit 1
+[2017-11-07 21:00:54]select * from `user` where `id` = ? limit 1
+[2017-11-07 21:01:02]select * from `user` where `id` = ? limit 1
+[2017-11-07 21:01:02]update `user` set `pic` = ? where `id` = ?
+[2017-11-07 21:01:02]select count(*) as aggregate from `user` where `username` like ?
+[2017-11-07 21:01:02]select * from `user` where `username` like ? order by `id` asc limit 10 offset 0
+[2017-11-07 21:01:02]select * from `user` where `id` = ? limit 1
+[2017-11-07 21:10:10]select count(*) as aggregate from `user` where `username` like ?
+[2017-11-07 21:10:10]select * from `user` where `username` like ? order by `id` asc limit 10 offset 0
+[2017-11-07 21:10:10]select * from `user` where `id` = ? limit 1
+[2017-11-07 21:10:13]select * from `user` where `id` = ? limit 1
+[2017-11-07 21:10:13]select * from `user` where `id` = ? limit 1
+[2017-11-07 21:17:24]select * from `user` where `id` = ? limit 1
+[2017-11-07 21:17:24]select * from `user` where `id` = ? limit 1
+[2017-11-07 21:17:51]select * from `user` where `id` = ? limit 1
+[2017-11-07 21:17:51]select * from `user` where `id` = ? limit 1
+[2017-11-07 21:19:05]select * from `user` where `id` = ? limit 1
+[2017-11-07 21:19:05]select * from `user` where `id` = ? limit 1
+[2017-11-07 21:19:13]update `user` set `password` = ? where `id` = ?
+[2017-11-07 21:19:13]select count(*) as aggregate from `user` where `username` like ?
+[2017-11-07 21:19:13]select * from `user` where `username` like ? order by `id` asc limit 10 offset 0
+[2017-11-07 21:19:13]select * from `user` where `id` = ? limit 1
+[2017-11-07 21:24:08]select count(*) as aggregate from `user` where `username` like ?
+[2017-11-07 21:24:08]select * from `user` where `username` like ? order by `id` asc limit 10 offset 0
+[2017-11-07 21:24:08]select * from `user` where `id` = ? limit 1
+[2017-11-07 21:26:38]select count(*) as aggregate from `user` where `username` like ?
+[2017-11-07 21:26:38]select * from `user` where `username` like ? order by `id` asc limit 10 offset 0
+[2017-11-07 21:26:38]select * from `user` where `id` = ? limit 1
+[2017-11-07 21:28:31]select * from `user` where `username` = ? limit 1
+[2017-11-07 21:28:31]select * from `user` where `id` = ? limit 1
+[2017-11-07 21:28:37]select count(*) as aggregate from `user` where `username` like ?
+[2017-11-07 21:28:37]select * from `user` where `username` like ? order by `id` asc limit 10 offset 0
+[2017-11-07 21:28:37]select * from `user` where `id` = ? limit 1
+[2017-11-07 21:29:33]select * from `user` where `username` = ? limit 1
+[2017-11-07 21:29:55]select * from `user` where `username` = ? limit 1
+[2017-11-07 21:30:20]select * from `user` where `username` = ? limit 1
+[2017-11-07 21:30:20]select * from `user` where `id` = ? limit 1
+[2017-11-07 21:30:24]select * from `user` where `id` = ? limit 1
+[2017-11-07 21:30:24]select * from `user` where `id` = ? limit 1
+[2017-11-07 21:30:40]select * from `user` where `id` = ? limit 1
+[2017-11-07 21:30:40]update `user` set `pic` = ? where `id` = ?
+[2017-11-07 21:30:41]select count(*) as aggregate from `user` where `username` like ?
+[2017-11-07 21:30:41]select * from `user` where `username` like ? order by `id` asc limit 10 offset 0
+[2017-11-07 21:30:41]select * from `user` where `id` = ? limit 1
+[2017-11-07 21:31:38]select count(*) as aggregate from `user` where `username` like ?
+[2017-11-07 21:31:38]select * from `user` where `username` like ? order by `id` asc limit 10 offset 0
+[2017-11-07 21:31:38]select * from `user` where `id` = ? limit 1
+[2017-11-07 21:34:12]select count(*) as aggregate from `user` where `username` like ?
+[2017-11-07 21:34:12]select * from `user` where `username` like ? order by `id` asc limit 10 offset 0
+[2017-11-07 21:34:12]select * from `user` where `id` = ? limit 1
+[2017-11-07 21:34:17]select count(*) as aggregate from `user` where `username` like ?
+[2017-11-07 21:34:17]select * from `user` where `username` like ? order by `id` asc limit 10 offset 0
+[2017-11-07 21:34:17]select * from `user` where `id` = ? limit 1
+[2017-11-07 21:34:33]select count(*) as aggregate from `user` where `username` like ?
+[2017-11-07 21:34:33]select * from `user` where `username` like ? order by `id` asc limit 10 offset 0
+[2017-11-07 21:34:33]select * from `user` where `id` = ? limit 1
+[2017-11-07 21:34:36]select count(*) as aggregate from `user` where `username` like ?
+[2017-11-07 21:34:36]select * from `user` where `username` like ? order by `id` asc limit 10 offset 0
+[2017-11-07 21:34:36]select * from `user` where `id` = ? limit 1
+[2017-11-07 21:34:49]select count(*) as aggregate from `user` where `username` like ?
+[2017-11-07 21:34:49]select * from `user` where `username` like ? order by `id` asc limit 10 offset 0
+[2017-11-07 21:34:49]select * from `user` where `id` = ? limit 1
+[2017-11-08 08:26:14]select * from `user` where `username` = ? limit 1
+[2017-11-08 08:26:56]select * from `user` where `username` = ? limit 1
+[2017-11-08 08:26:56]select * from `user` where `id` = ? limit 1
+[2017-11-08 08:27:03]select count(*) as aggregate from `user` where `username` like ?
+[2017-11-08 08:27:03]select * from `user` where `username` like ? order by `id` asc limit 10 offset 0
+[2017-11-08 08:27:03]select * from `user` where `id` = ? limit 1
+[2017-11-08 08:27:07]select * from `user` where `id` = ? limit 1
